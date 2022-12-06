@@ -28,7 +28,7 @@
   "dependencies": {
     "bcryptjs": "^2.4.0",
     "body-parser": "^1.15.2",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "immutable": "^3.8.1",
     "jsonwebtoken": "^7.2.1",
     "jwt-decode": "^2.1.0",
